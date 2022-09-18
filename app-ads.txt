@@ -1,4 +1,5 @@
 applovin.com, af0283d01e3e600064d861b0148244d3, DIRECT
+facebook.com, 4971576309558423, DIRECT, c3e20eee3f780d68
 #AppBroda Start
 appbroda.com, 653, DIRECT
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
